@@ -15,11 +15,19 @@ How much funds does startups generally get in India?
  
  # Data Dictionary
  **Date**    Date of funding in dd/mm/yyyy format
+ 
  **StartupName**  Name of the startup
+ 
  **IndustryVertical**  Industry vertical of the startup(the industry that a company's offerings are specifically catered towards. Examples of verticals include automotive, education, manufacturing, and real estate)
+ 
  **SubVertical**    Industry sub vertical
+ 
  **City**	
+ 
  **InvestorsName**    Name of the investors
+ 
  **InvestmentType**   Type of investment
+ 
  **AmountInUSD**	   Funding Amount
+ 
  **Remarks**
